@@ -17,15 +17,7 @@
 ## Установка
 
 1. Скачайте репозиторий:
-   ```
-   git clone https://github.com/vadimx-stack/CSharpApp.git
-   ```
-
 2. Откройте папку проекта:
-   ```
-   cd CSharpApp
-   ```
-
 3. Скомпилируйте проект:
    ```
    dotnet build
