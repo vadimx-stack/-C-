@@ -18,7 +18,7 @@
 
 1. Скачайте репозиторий:
    ```
-   git clone https://github.com/username/CSharpApp.git
+   git clone https://github.com/vadimx-stack/CSharpApp.git
    ```
 
 2. Откройте папку проекта:
